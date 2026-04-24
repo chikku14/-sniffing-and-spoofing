@@ -7,5 +7,3 @@ def packet_callback(packet):
 sniff(prn=packet_callback, store=0, count=20)
 
 
-requirements.txt
-scapy
