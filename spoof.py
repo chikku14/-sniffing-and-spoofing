@@ -8,5 +8,3 @@ print("Spoofed packets sent.")
 
 
 
-requirements.txt
-scapy
